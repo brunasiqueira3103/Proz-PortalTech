@@ -1,0 +1,5 @@
+Nome: "caractere"
+CPF: inteiro
+RG: inteiro
+Altura: real
+Endereço: "caractere"
