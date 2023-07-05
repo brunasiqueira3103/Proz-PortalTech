@@ -3,3 +3,9 @@ CPF: inteiro
 RG: inteiro
 Altura: real
 Endereço: "caractere"
+
+Nome <- "Bruna"
+CPF <-  00000001111
+RG <- 5555666
+Altura <- 160
+Endereço <- "rua: Logo ali a direita Jaraguá do Sul/SC"
