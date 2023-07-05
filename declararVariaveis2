@@ -5,11 +5,15 @@ var
   CPF: inteiro
   RG: inteiro 
 
-leia
-  Nome <- ("Bruna")
-  Endereço <- ("rua: logo ali")
-  Cidade <- ("Jaraguá do Sul")
-  CPF <- (0099988777)
-  RG <- (555666)
+escreva ("Informe seu nome: ")
+leia (Nome)
+escreva ("Informe seu endereço: ")
+leia(Endereço)
+escreva ("Informe sua cidade: ")
+leia (Cidade)
+escreva ("Informe seu CPF: ")
+leia (CPF)
+escreva ("Informe seu RG: ")
+leia (RG)
 
 escreva ""Nome", seus dados foram registrados. Confira se estão corretos: "CPF", "RG", "Endereço", "Cidade"."
